@@ -20,7 +20,7 @@ function generateAkanName() {
         return;
     }
 
-    // Validate gender
+    
     if (!gender) {
         alert("Please select your gender.");
         return;
