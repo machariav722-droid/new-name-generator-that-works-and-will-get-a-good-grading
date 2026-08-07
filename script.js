@@ -11,7 +11,6 @@ function generateAkanName() {
         return;
     }
 
-    // Validate month
     if (isNaN(month) || month < 1 || month > 12) {
         alert("Please enter a valid month (1-12).");
         return;
