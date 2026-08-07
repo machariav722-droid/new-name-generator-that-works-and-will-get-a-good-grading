@@ -46,7 +46,6 @@ function generateAkanName() {
         "Saturday"
     ];
 
-    // Male Akan names
     const maleNames = [
         "Kwasi",
         "Kwadwo",
@@ -57,7 +56,6 @@ function generateAkanName() {
         "Kwame"
     ];
 
-    // Female Akan names
     const femaleNames = [
         "Akosua",
         "Adwoa",
@@ -68,7 +66,6 @@ function generateAkanName() {
         "Ama"
     ];
 
-    // Determine Akan name
     let akanName;
 
     if (gender.value === "male") {
@@ -77,7 +74,6 @@ function generateAkanName() {
         akanName = femaleNames[dayNumber];
     }
 
-    // Display the result
     const result = document.getElementById("result");
 
     result.style.display = "block";
