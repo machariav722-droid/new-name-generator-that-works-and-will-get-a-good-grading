@@ -1,2 +1,2 @@
 # new-name-generator-that-works-and-will-get-a-good-grading
-this is the new and improved
+This is the new and improved Akan name generator
