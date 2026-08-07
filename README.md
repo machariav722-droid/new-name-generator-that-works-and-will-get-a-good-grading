@@ -1,3 +1,3 @@
 # new-name-generator-that-works-and-will-get-a-good-grading
 This is the new and improved Akan name generator.
-The difference is that
+The difference is that,this will work,and is clearer.
