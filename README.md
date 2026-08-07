@@ -1,6 +1,7 @@
 # new-name-generator-that-works-and-will-get-a-good-grading
 This is the new and improved Akan name generator.
 The difference is that,this will work,and is clearer.
-Features: Date form,Year form,Gender filler.
+Features: Date form,Year form,Gender filler.Name generation
+
            
 
