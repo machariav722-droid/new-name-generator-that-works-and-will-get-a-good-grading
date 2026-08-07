@@ -34,8 +34,6 @@ function generateAkanName() {
         alert("Please enter a valid date.");
         return;
     }
-
-    // Get day of the week
     const dayNumber = birthDate.getDay();
 
     // Days of the week
