@@ -6,7 +6,6 @@ function generateAkanName() {
     const year = parseInt(document.getElementById("year").value);
     const gender = document.querySelector('input[name="gender"]:checked');
 
-    // Validate day
     if (isNaN(day) || day < 1 || day > 31) {
         alert("Please enter a valid day (1-31).");
         return;
