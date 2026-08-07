@@ -19,14 +19,11 @@ function generateAkanName() {
         alert("Please enter a valid year.");
         return;
     }
-
-    
     if (!gender) {
         alert("Please select your gender.");
         return;
     }
 
-    // Check if the entered date is valid
     const birthDate = new Date(year, month - 1, day);
 
     if (
